@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Welcome tag line...]]></title>
+        <description><![CDATA[Welcome tag line...]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Aug 2016 16:14:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Embracing Ambiguity Like Your Life Depends On it — (aka… How to Survive as a Founder)]]></title>
+            <description><![CDATA[<article><h1>Embracing Ambiguity Like Your Life Depends On it — (aka… How to Survive as a Founder)</h1><p>Normally the first thing I encourage any newly minted founder to do at the beginning of their startup journey is throw away any concept of certainty. Especially if they are tackling a big problem, something with real weight behind it and deep meaning for their potential users.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f18308b-0f99-4ab7-925c-4fda788c5926.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f18308b-0f99-4ab7-925c-4fda788c5926.jpg</link>
+            <guid isPermaLink="false">bd207af3-f45c-40ca-ae23-428e4e2af12b</guid>
+            <pubDate>Tue, 02 Aug 2016 16:14:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
