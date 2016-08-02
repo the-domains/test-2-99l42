@@ -12,5 +12,9 @@ color:
     - '#AEEE00'
 layout_spectrum: 0.257268886314705
 name: Test 2
+navigation:
+  - name: Seth
+    url: 'http://sethkravitz.com/'
+    type: external
 title: Welcome tag line...
 description: This is the text underneath.
