@@ -1,20 +1,34 @@
-typography_spectrum: 0.5478607432451099
-color:
-  brandStrength: 0.834447076311335
-  lightness: 0.1424751919694245
-  saturation: 0.9873656698036939
-  rhythmicContrast: 0.9680495022330433
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-layout_spectrum: 0.257268886314705
 name: Test 2
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.34902
 navigation:
   - name: Seth
     url: 'http://sethkravitz.com/'
     type: external
 title: Welcome tag line...
 description: This is the text underneath.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#341f00'
+    - '#9b806f'
+    - '#ffee00'
+    - '#ff0001'
+  brandStrength: 0.3125
+  lightness: 0.625
+  saturation: 0.375
+  rhythmicContrast: 1
+purpose: []
